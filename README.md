@@ -1,2 +1,10 @@
-# twrp_device_onn_7_inch_gen_3
-Twrp for onn 7 inch gen 3, May work on gen 2 or 1
+# Android device tree for onn 100071481 (mid7019_mr_32)
+
+```
+#
+# Copyright (C) 2023 The Android Open Source Project
+# Copyright (C) 2023 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
